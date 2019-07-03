@@ -13,7 +13,6 @@
 		6A75260322CCF3AE00E5F866 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6A75260222CCF3AE00E5F866 /* Assets.xcassets */; };
 		6A75260622CCF3AE00E5F866 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6A75260422CCF3AE00E5F866 /* LaunchScreen.storyboard */; };
 		6A75260E22CCF43D00E5F866 /* SwitchCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A75260D22CCF43D00E5F866 /* SwitchCell.swift */; };
-		6A75261022CD046600E5F866 /* AppExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A75260F22CD046600E5F866 /* AppExtensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		6A75260522CCF3AE00E5F866 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6A75260722CCF3AE00E5F866 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6A75260D22CCF43D00E5F866 /* SwitchCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchCell.swift; sourceTree = "<group>"; };
-		6A75260F22CD046600E5F866 /* AppExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppExtensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +58,6 @@
 			children = (
 				6A7525FB22CCF3AC00E5F866 /* AppDelegate.swift */,
 				6A7525FD22CCF3AC00E5F866 /* ViewController.swift */,
-				6A75260F22CD046600E5F866 /* AppExtensions.swift */,
 				6A75260D22CCF43D00E5F866 /* SwitchCell.swift */,
 				6A7525FF22CCF3AC00E5F866 /* Main.storyboard */,
 				6A75260222CCF3AE00E5F866 /* Assets.xcassets */,
@@ -144,7 +141,6 @@
 				6A7525FE22CCF3AC00E5F866 /* ViewController.swift in Sources */,
 				6A7525FC22CCF3AC00E5F866 /* AppDelegate.swift in Sources */,
 				6A75260E22CCF43D00E5F866 /* SwitchCell.swift in Sources */,
-				6A75261022CD046600E5F866 /* AppExtensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
